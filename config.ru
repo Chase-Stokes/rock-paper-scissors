@@ -1,3 +1,3 @@
-require './app'
+require './RPS'
 
 run Sinatra::Application
